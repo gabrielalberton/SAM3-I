@@ -1,3 +1,5 @@
+Pesos em: https://drive.google.com/drive/folders/1US4rFeMZt56OVcvX9s_xDXopKfd5wa3w?usp=sharing, https://drive.google.com/file/d/1aqb-puW4vrFQXygcbiRFBB2cQE9WeqN8/view?usp=sharing, https://drive.google.com/file/d/1zvpTcqZcioZWXZAKQZn7mNlVkVcZN4Ud/view?usp=sharing
+
 # SAM3-I: Segment Anything with Instructions
 
 Official repository for the paper "SAM3-I: Segment Anything with Instructions".
